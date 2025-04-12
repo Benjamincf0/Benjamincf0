@@ -11,7 +11,7 @@ I’m a motivated Software Engineering COOP student at McGill University with a 
 - **Projects:** Developed a dynamic [Web Chat App](https://projet-personnel-245c7.web.app/) that demonstrates my ability to implement realtime messaging and secure communication.
 
 ### 🎈 Other Languages & Frameworks:
-    Java, Python, C#, C, 
+- **Java, Python, C#, C**
 
 
 ### 🧠 Experience & Involvement
