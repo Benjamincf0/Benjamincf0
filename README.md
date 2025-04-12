@@ -26,8 +26,7 @@ I’m a motivated Software Engineering COOP student at McGill University with a 
 
 I'm always looking to collaborate on exciting projects and share ideas. Feel free to get in touch!
 
+- [benjamin.curis-friedman@mail.mcgill.ca](mailto:benjamin.curis-friedman@mail.mcgill.ca)
 - [LinkedIn](https://www.linkedin.com/in/benjaminc-f)
-- [GitHub](https://github.com/Benjamincf0)
-- Email: [benjamin.curis-friedman@mail.mcgill.ca](mailto:benjamin.curis-friedman@mail.mcgill.ca)
 
 Feel free to explore my repositories and reach out if you’re interested in collaboration. Let’s build something amazing together! 🤝
