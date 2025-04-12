@@ -2,12 +2,17 @@
 
 I’m a motivated Software Engineering COOP student at McGill University with a passion for learning and making cool projects.
 
-### 💻 Front-End Skills
-- **Languages:** HTML5, CSS3, JavaScript
-- **Frameworks & Libraries:** Vue.js, Next.js, Tailwind CSS
+### 💻 Front-End
+- **Languages:** HTML5, CSS3, JavaScript, TypeScript
+- **Frameworks & Libraries:** Vue.js, React.js, Next.js, Tailwind CSS
 
-### 🌐 Full-Stack Experience 
+### 🌐 Full-Stack 
+- **Frameworks & Libraries:** Firebase
 - **Projects:** Developed a dynamic [Web Chat App](https://projet-personnel-245c7.web.app/) that demonstrates my ability to implement realtime messaging and secure communication.
+
+### 🎈 Other Languages & Frameworks:
+    Java, Python, C#, C, 
+
 
 ### 🧠 Experience & Involvement
 
