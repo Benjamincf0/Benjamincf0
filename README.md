@@ -1,6 +1,5 @@
-## 👋 Hi, I'm Ben
-
-I’m a motivated Software Engineering COOP student at McGill University with a passion for learning and making cool projects.
+### 👋 Hi! I'm Ben <br>
+**I’m a motivated Software Engineering COOP student at McGill University with a passion for learning and making cool projects.**
 
 ### 💻 Front-End
 - **Languages:** HTML5, CSS3, JavaScript, TypeScript
