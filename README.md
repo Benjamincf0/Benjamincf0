@@ -3,7 +3,7 @@
 
 ### 💻 Front-End
 - **Languages:** HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks & Libraries:** Vue.js, React.js, Next.js, Tailwind CSS
+- **Frameworks & Libraries:** Vue.js, currently learning React.js, Next.js & Tailwind CSS
 
 ### 🌐 Full-Stack 
 - **Frameworks & Libraries:** Firebase
