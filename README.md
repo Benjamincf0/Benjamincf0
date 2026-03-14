@@ -1,29 +1,8 @@
 ### 👋 Hi! I'm Ben <br>
-**I’m a motivated Software Engineering COOP student at McGill University with a passion for learning and making cool projects.**
+I’m a motivated SWE student at McGill University I'm trying to learn as much as possible through my projects.
 
-### 💻 Front-End
-- **Languages:** HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks & Libraries:** Vue.js, currently learning React.js, Next.js & Tailwind CSS
-
-### 🌐 Full-Stack 
-- **Frameworks & Libraries:** Firebase
-- **Projects:** Developed a dynamic [Web Chat App](https://projet-personnel-245c7.web.app/) that demonstrates my ability to implement realtime messaging and secure communication.
-
-### 🎈 Other Languages & Frameworks:
-- **Java, Python, C#, C**
-
-
-### 🧠 Experience & Involvement
-
-- **McGill Rocket Team 🚀**  
-  Contributing to the development of flight computer software, leveraging C++ and custom PCB programming.
-
-- **Peer Tutoring 📚**  
-  Providing tutoring in Calculus, Linear Algebra, and Physics across various academic levels.
-
-### 🎯 Let's Connect!
-
-I'm always looking to collaborate on exciting projects and share ideas. Feel free to get in touch!
+**"Managing complexity is the most important technical topic in software development."** - Steve McConnell
+#
 
 - [benjamin.curis-friedman@mail.mcgill.ca](mailto:benjamin.curis-friedman@mail.mcgill.ca)
 - [LinkedIn](https://www.linkedin.com/in/benjaminc-f)
