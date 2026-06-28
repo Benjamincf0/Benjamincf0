@@ -9,6 +9,8 @@ I’m a motivated SWE student at McGill and I'm trying to learn as much as possi
 
 Feel free to explore my repositories and connect!
 
+![](https://komarev.com/ghpvc/?username=Benjamincf0&color=green)
+
 About me 👨‍💻
 ```py
 class Benjamin(Human):
