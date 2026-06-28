@@ -1,32 +1,39 @@
-## 👋 Hi, I'm Ben
+## Hi! I'm Ben 👋
 
-I’m a motivated Software Engineering COOP student at McGill University with a passion for learning and making cool projects.
+I’m a motivated SWE student at McGill and I'm trying to learn as much as possible through my projects.
 
-### 💻 Front-End
-- **Languages:** HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks & Libraries:** Vue.js, React.js, Next.js, Tailwind CSS
+"Managing complexity is the most important technical topic in software development." - Steve McConnell
 
-### 🌐 Full-Stack 
-- **Frameworks & Libraries:** Firebase
-- **Projects:** Developed a dynamic [Web Chat App](https://projet-personnel-245c7.web.app/) that demonstrates my ability to implement realtime messaging and secure communication.
+  LinkedIn
+  Checkout some of my projects here 👉 bencf.dev
 
-### 🎈 Other Languages & Frameworks:
-- **Java, Python, C#, C**
+Feel free to explore my repositories and connect!
 
+About me 👨‍💻
+```py
+class Benjamin(Human):
+    def __init__(self):
+        self.name = "Benjamin Curis-Friedman"
+        self.role = "Software Engineering Student"
+        self.education = "Mcgill University"
+        self.location = "Montreal 🇨🇦"
+        self.interests = [
+            "Machine Learning",
+            "Shaders with WGSL",
+            "Open Source"
+        ]
+        self.languages = ["French", "English"]
 
-### 🧠 Experience & Involvement
+    def get_current_projects(self):
+        return {
+            "Unfraudify": "Credit card fraud analysis dashboard",
+            "OmniClaw": "AI Integration with Omnivox",
+        }
 
-- **McGill Rocket Team 🚀**  
-  Contributing to the development of flight computer software, leveraging C++ and custom PCB programming.
+    def say_hi(self):
+        print("Hey it's nice to meet you!")
+        print("I'm Ben, what's your name?")
 
-- **Peer Tutoring 📚**  
-  Providing tutoring in Calculus, Linear Algebra, and Physics across various academic levels.
-
-### 🎯 Let's Connect!
-
-I'm always looking to collaborate on exciting projects and share ideas. Feel free to get in touch!
-
-- [benjamin.curis-friedman@mail.mcgill.ca](mailto:benjamin.curis-friedman@mail.mcgill.ca)
-- [LinkedIn](https://www.linkedin.com/in/benjaminc-f)
-
-Feel free to explore my repositories and reach out if you’re interested in collaboration. Let’s build something amazing together! 🤝
+me = Benjamin()
+me.say_hi()
+```
