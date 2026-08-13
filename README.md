@@ -5,7 +5,7 @@ I’m a motivated SWE student at McGill and I'm trying to learn as much as possi
 "Managing complexity is the most important technical topic in software development." - Steve McConnell
 
   LinkedIn
-  Checkout some of my projects here 👉 bencf.dev
+  Checkout some of my projects here 👉 [bencf.dev](https://bencf.dev)
 
 Feel free to explore my repositories and connect!
 
